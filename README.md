@@ -1,7 +1,7 @@
-## AWS Financial Services Framework
+# AWS Financial Services Framework
 Opinionated software assets to accelerate successful use of AWS by financial services customers
 
-# Overview
+## Overview
 The AWS Financial Service Framework (FSF) is a collection of software assets and documentation whose purpose it is to accelerate the pace at which financial services customers adopt usage of AWS. This acceleration is a function of providing software assets that instantiate AWS resources with the kind of considerations that are typically asked by customers in financial services. These considerations include for example:
 
 *  Isolated VPCs with no internet gateways
